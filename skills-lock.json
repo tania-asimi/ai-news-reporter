@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "skills": {
+    "browse": {
+      "source": "ulpi-io/skills",
+      "sourceType": "github",
+      "computedHash": "651a9a05f6dcf705fea2656fec363e5e297736b5b03ee04d03c1047171a6d01b"
+    },
+    "browse-stealth": {
+      "source": "ulpi-io/skills",
+      "sourceType": "github",
+      "computedHash": "530c5b38312d2dc74869e8726134033c7e3c91a10e75081da72aa9afaa5caad8"
+    },
+    "skill-creator": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "b122f4d1e91aa1d83027e050b5b37c3156203ee85458d7b1360bc48167c9e02a"
+    }
+  }
+}
