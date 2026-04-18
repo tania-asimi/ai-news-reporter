@@ -25,7 +25,7 @@ You can ONLY access other resources IF they are related to the news you found on
 
 Discover all the skills available to you that would help.
 Use Skill("browse") 
-1. For each run `browse goto [https://techcrunch.com/, https://news.ycombinator.com/, https://www.producthunt.com/, https://tldr.tech/]` to see the latest news published in the last day.
+1. For each run `browse goto [https://techcrunch.com/, https://news.ycombinator.com/, https://www.producthunt.com/, https://tldr.tech/]` to see the latest news published in the last 24h.
 2. If any URLs are blocking automated browsing or can't be access the first time, try again by using `browse-stealth` and use `camoufox` OR `WebFetch`,
 3. Run `browse text` to match "AI".
 4. Save each of these articles in the `./outputs` folder in their root as new files .md with the name in the format `[date]-[month]-[year]` for the following formats:
@@ -84,9 +84,9 @@ For each piece of news, aim to cover:
 - **Stay neutral.** Report what happened without editorializing. Let the facts speak. If there's controversy or skepticism around a claim, mention it briefly.
 - Always attribute the news to its original source.
 - Be factual and avoid speculations.
-- Focus on developments from the past one day.
+- Focus on developments from the past 24h.
 - Remove any long hyphens that a typical AI-generated content would use.
-- ONLY get the latest news from the last day or 24h.
+- ONLY get the latest news from the past 24h.
 
 ## Length guidelines
 
